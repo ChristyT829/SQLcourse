@@ -1,0 +1,45 @@
+patientid,hospital,admitteddate
+1,Kingston,2024-02-26
+2,Kingston,2024-02-26
+3,PRUH,2024-02-26
+4,Oxleas,2024-02-26
+5,Oxleas,2024-02-26
+6,Oxleas,2024-02-26
+7,Kings College,2024-02-26
+8,Kings College,2024-02-26
+9,Kings College,2024-02-26
+21,Kingston,2024-02-28
+23,Oxleas,2024-02-28
+25,Kings College,2024-02-28
+27,Kings College,2024-02-28
+29,Kingston,2024-03-01
+34,Kings College,2024-03-01
+35,Kings College,2024-03-01
+36,Kings College,2024-03-01
+37,Kingston,2024-03-02
+38,PRUH,2024-03-02
+39,Kingston,2024-03-02
+100,Kingston,2024-02-27
+110,PRUH,2024-02-27
+120,Kingston,2024-02-27
+130,Oxleas,2024-02-27
+140,Oxleas,2024-02-27
+150,Oxleas,2024-02-27
+160,Kings College,2024-02-27
+170,Kings College,2024-02-27
+180,Kings College,2024-02-27
+190,Kingston,2024-02-28
+200,Kingston,2024-02-28
+310,Oxleas,2024-03-01
+320,Oxleas,2024-03-01
+330,Oxleas,2024-03-01
+400,Oxleas,2024-03-02
+411,Oxleas,2024-03-02
+422,Oxleas,2024-03-02
+433,PRUH,2024-03-02
+455,Kings College,2024-03-02
+2200,Oxleas,2024-02-28
+2400,Oxleas,2024-02-28
+2600,Kings College,2024-02-28
+2800,Kingston,2024-03-01
+3000,Kingston,2024-03-01
